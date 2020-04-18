@@ -1,6 +1,10 @@
 {
-    "latitude": 48.11,
-    "longitude": -1.7,
-    "day": 0,
-    "datetime": "2018-10-24T02:00:00+0200"
+	"city": {
+			"insee": "35238",
+			"cp": 35000,
+			"latitude": 48.112,
+			"longitude": -1.6819,
+			"altitude": 38,
+			"name": "Rennes"
+	}
 }
