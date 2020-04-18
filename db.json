@@ -1,10 +1,12 @@
-{
-    "city": {
-        "insee": "35238",
-        "cp": 35000,
-        "name": "Rennes",
-        "latitude": 48.112,
-        "longitude": -1.6819,
-        "altitude": 38
+[
+    {
+        "city": {
+            "insee": "35238",
+            "cp": 35000,
+            "name": "Rennes",
+            "latitude": 48.112,
+            "longitude": -1.6819,
+            "altitude": 38
+        }
     }
-}
+]
